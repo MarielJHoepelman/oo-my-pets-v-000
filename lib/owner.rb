@@ -61,5 +61,4 @@ class Owner
       animals.each { |a| a.mood="nervous" }
     end
   end
-
 end
